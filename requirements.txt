@@ -1,5 +1,5 @@
 fastapi
-uvicorn[standard]
+uvicorn
 pandas
 tabulate
 python-multipart
@@ -9,3 +9,6 @@ openpyxl
 requests
 jinja2
 crewai
+openai
+google-generativeai
+python-dotenv
