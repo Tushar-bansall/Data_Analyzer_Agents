@@ -2,7 +2,7 @@
 // Simple client for the backend /analyze endpoint.
 // Expects backend at the same host + port (change BASE_URL if needed).
 
-const BASE_URL = "https://data-analyzer-agents.onrender.com"; // — leave blank to use same origin
+const BASE_URL = "https://data-analyzer-agent-ceot.onrender.com"; // — leave blank to use same origin
 const analyzeForm = document.getElementById("analyzeForm");
 const fileInput = document.getElementById("fileInput");
 const questionInput = document.getElementById("questionInput");
