@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+tabulate
+python-multipart
+aiofiles
+numpy
+openpyxl
+requests
+jinja2
+crewai
