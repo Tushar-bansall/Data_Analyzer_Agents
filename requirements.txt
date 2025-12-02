@@ -10,5 +10,6 @@ requests
 jinja2
 crewai
 openai
-google-generativeai
+google-generative-ai
+google-genai
 python-dotenv
